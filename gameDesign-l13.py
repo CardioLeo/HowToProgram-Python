@@ -110,7 +110,29 @@
 
 # Card Number H
 
+# # Implement Design Process
+# def ContinueGame()
+# # return False if game should end, True if not over
+# if (current_scorwe >= goal_score):
+# return False
+# else:
+# return True
+# # [pass current_ and goal_ as parameters]
+# goal_score = 100
+# # default score in parameter
+
 #
+
+# # Alternate code
+# score = 50
+# goal_score = 100
+# # while game not over
+# while ContinueGame(score, goal_score):
+# # Do a round of the game
+# DoRound():
+
+# # top down design made continue game a function.
+# # allows possibility. more complicated check
 
 
 ##########
