@@ -100,7 +100,9 @@
 
 # Card Number G
 
-#
+# # Continue Game Check
+# # < If score >= goal_score, return False
+# # < Otherwise, return True
 
 
 ##########
