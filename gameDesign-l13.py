@@ -28,6 +28,10 @@
 # 2 ^^ Then into functions ^^
 # "encapsulation into function"
 
+
+##########
+
+
 # Card C
 
 # def Initialization():
@@ -39,6 +43,10 @@
     # initialize()
     # # Loop while not over ContinueGame(): Do Round
 
+
+##########
+
+
 # Card Number D
 
 # Test!
@@ -46,7 +54,66 @@
 # def initialize 
 # # initialization game
 # print("initializing")
-# def Continue 
+# def ContinueGame():
+# # Return False if should end, True if not over
+# print("Checking to see if game continues")
+# # test both
+# return True
+
+# Def DoRound()
+# perform 1 round
+# print("Doing Round")
+# # Initialize game
+# Initialize()
+# # while game not over
+# while ContinueGame():
+# # Do 1 round of the game
+# DoRound()
+
+
+##########
+
+
+# Card Number E
+
+# # Stubs
+# # Stubs done? fill out first
+# # Initialize and set up
+# # < set up the game with an inital arrangement of letters
+# # < set user's score to zero
+# # < set initial values for other variables, like number of rounds
+
+
+##########
+
+
+# Card Number F
+
+#
+
+
+##########
+
+
+# Card Number G
+
+#
+
+
+##########
+
+
+# Card Number H
+
+#
+
+
+##########
+
+
+# Card Number I
+
+#
 
 
 ##########
