@@ -89,7 +89,10 @@
 
 # Card Number F
 
-#
+# # Go Through One Round of Game
+# # < Get move from user 
+# # < Update game board on that move
+# # < Display new grid to user
 
 
 ##########
